@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>APAPTutorial05</artifactId>
+	<artifactId>APAPTutorial06</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>APAPTutorial05</name>
-	<description>Tutorial 4</description>
+	<name>APAPTutorial06</name>
+	<description>Tutorial 6</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
